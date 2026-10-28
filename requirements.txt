@@ -1,0 +1,7 @@
+librosa
+numpy
+torch
+transformers
+soundfile
+openai-whisper
+yt-dlp
