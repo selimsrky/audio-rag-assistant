@@ -27,3 +27,6 @@ docker run --rm -it audio-rag-assistant
 ```
 
 4. Paste any YouTube video URL when prompted to get the complete transcription directly in your terminal.
+```bash
+https://www.youtube.com/watch?v=dQw4w9WgXcQ  # Example YouTube URL
+```
